@@ -29,9 +29,9 @@ This project aims to develop a table tennis ball launcher system for NYP Table T
 8. **Final Presentation**
    - Prepare and deliver a presentation showcasing the empathy map, objective tree, concept development, selected design, prototype, and user feedback.
 
-### Key Contributions from Members of Table Tennis CCA
+### My role and contribution 
 
- I am the main builder for the table tennis launcher, leading the construction and ensuring the structure and functionality of the prototype.
+ I am the main builder and the leader of the table tennis launcher project, leading the construction and ensuring the structure and functionality of the prototype.
    - Collaboratively designed the LEGO table tennis ball launcher.
    - Conducted user interviews and observations to empathize with users.
    - Developed multiple concepts for the ball holder, mechanics, ball track, and base.
@@ -40,3 +40,4 @@ This project aims to develop a table tennis ball launcher system for NYP Table T
    - Improved the design based on user feedback to enhance effectiveness and usability.
    - Conducted user testing to gather and analyze feedback for refining the final design.
    - Prepared and delivered a comprehensive presentation detailing the project’s process and outcomes.
+   - Help to remind teammates to do their part, and help improve communication to have better collaboration and understanding.
