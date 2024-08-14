@@ -1,6 +1,7 @@
 ## Table Tennis Launcher
 ## Introduction
 This project aims to develop a table tennis ball launcher system for NYP Table Tennis CCA to help trainees practice effectively without needing a practice buddy. Below is the comprehensive development process of the system.
+The struggle I faced was deciding which components to use and how to utilize their functionality. I had to test and dismantle the components to understand them better.
 
 ### Project Development Steps
 
